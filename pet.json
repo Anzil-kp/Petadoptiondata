@@ -8,5 +8,103 @@
     "gender": "Female",
     "price": 2500
   },
-
+  {
+    "id": "2",
+    "name": "Luna",
+    "imageUrl": "https://www.pexels.com/photo/white-persian-cat-lying-on-the-bed-7445032/",
+    "breed": "Persian Cat",
+    "age": 2,
+    "gender": "Female",
+    "price": 1800
+  },
+  {
+    "id": "3",
+    "name": "Charlie",
+    "imageUrl": "https://www.pexels.com/photo/dog-27791539/",
+    "breed": "Labrador",
+    "age": 4,
+    "gender": "Male",
+    "price": 2200
+  },
+  {
+    "id": "4",
+    "name": "Max",
+    "imageUrl": "https://www.pexels.com/photo/siamese-cat-596590/",
+    "breed": "Siamese",
+    "age": 1,
+    "gender": "Male",
+    "price": 1500
+  },
+  {
+    "id": "5",
+    "name": "Lucy",
+    "imageUrl": "https://www.pexels.com/photo/brown-white-and-black-beagle-1031431/",
+    "breed": "Beagle",
+    "age": 3,
+    "gender": "Female",
+    "price": 2000
+  },
+  {
+    "id": "6",
+    "name": "Rocky",
+    "imageUrl": "https://www.pexels.com/photo/black-and-white-french-bulldog-puppy-stepping-on-brown-wood-board-panel-close-up-photography-776078/",
+    "breed": "Bulldog",
+    "age": 4,
+    "gender": "Male",
+    "price": 2700
+  },
+  {
+    "id": "7",
+    "name": "Daisy",
+    "imageUrl": "https://www.pexels.com/photo/a-cute-brown-dog-while-sitting-5952006/",
+    "breed": "Poodle",
+    "age": 2,
+    "gender": "Female",
+    "price": 2300
+  },
+  {
+    "id": "8",
+    "name": "Milo",
+    "imageUrl": "https://www.pexels.com/photo/adult-german-shepherd-lying-on-ground-333083/",
+    "breed": "German Shepherd",
+    "age": 5,
+    "gender": "Male",
+    "price": 3000
+  },
+  {
+    "id": "9",
+    "name": "Coco",
+    "imageUrl": "https://www.pexels.com/photo/short-coat-brown-dog-standing-on-pavement-2449536/",
+    "breed": "French Bulldog",
+    "age": 3,
+    "gender": "Female",
+    "price": 3500
+  },
+  {
+    "id": "10",
+    "name": "Buddy",
+    "imageUrl": "https://www.pexels.com/photo/english-cocker-spaniel-puppy-sitting-on-ground-beside-grass-1254140/",
+    "breed": "Cocker Spaniel",
+    "age": 4,
+    "gender": "Male",
+    "price": 2100
+  },
+  {
+    "id": "11",
+    "name": "Bailey",
+    "imageUrl": "https://www.pexels.com/photo/pawn-pug-sitting-on-beige-floor-1591939/",
+    "breed": "Pug",
+    "age": 2,
+    "gender": "Male",
+    "price": 1900
+  },
+  {
+    "id": "12",
+    "name": "Sadie",
+    "imageUrl": "https://www.pexels.com/photo/shallow-focus-photography-of-brindle-boxer-puppy-605496/",
+    "breed": "Boxer",
+    "age": 5,
+    "gender": "Female",
+    "price": 2600
+  }
 ]
