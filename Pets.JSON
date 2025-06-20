@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Bella",
-    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/goldenretev.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Anzil-kp/Petadoptiondata/main/goldenretev.jpg",
     "breed": "Golden Retriever",
     "age": 3,
     "gender": "Female",
