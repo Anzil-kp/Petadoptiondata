@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Bella",
-    "imageUrl": "https://www.pexels.com/photo/adult-golden-retriever-on-grass-field-204246/",
+    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/golden%20rete.jpg",
     "breed": "Golden Retriever",
     "age": 3,
     "gender": "Female",
@@ -11,7 +11,7 @@
   {
     "id": "2",
     "name": "Luna",
-    "imageUrl": "https://www.pexels.com/photo/white-persian-cat-lying-on-the-bed-7445032/",
+    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/persiancat.jpg",
     "breed": "Persian Cat",
     "age": 2,
     "gender": "Female",
@@ -20,7 +20,7 @@
   {
     "id": "3",
     "name": "Charlie",
-    "imageUrl": "https://www.pexels.com/photo/dog-27791539/",
+    "imageUrl": "",
     "breed": "Labrador",
     "age": 4,
     "gender": "Male",
@@ -29,7 +29,7 @@
   {
     "id": "4",
     "name": "Max",
-    "imageUrl": "https://www.pexels.com/photo/siamese-cat-596590/",
+    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/siamese.jpg",
     "breed": "Siamese",
     "age": 1,
     "gender": "Male",
@@ -38,7 +38,7 @@
   {
     "id": "5",
     "name": "Lucy",
-    "imageUrl": "https://www.pexels.com/photo/brown-white-and-black-beagle-1031431/",
+    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/beagle.jpg",
     "breed": "Beagle",
     "age": 3,
     "gender": "Female",
@@ -47,7 +47,7 @@
   {
     "id": "6",
     "name": "Rocky",
-    "imageUrl": "https://www.pexels.com/photo/black-and-white-french-bulldog-puppy-stepping-on-brown-wood-board-panel-close-up-photography-776078/",
+    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/bulldog.jpg",
     "breed": "Bulldog",
     "age": 4,
     "gender": "Male",
@@ -56,7 +56,7 @@
   {
     "id": "7",
     "name": "Daisy",
-    "imageUrl": "https://www.pexels.com/photo/a-cute-brown-dog-while-sitting-5952006/",
+    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/poodle.jpg",
     "breed": "Poodle",
     "age": 2,
     "gender": "Female",
@@ -65,7 +65,7 @@
   {
     "id": "8",
     "name": "Milo",
-    "imageUrl": "https://www.pexels.com/photo/adult-german-shepherd-lying-on-ground-333083/",
+    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/germenshep.jpg",
     "breed": "German Shepherd",
     "age": 5,
     "gender": "Male",
@@ -74,7 +74,7 @@
   {
     "id": "9",
     "name": "Coco",
-    "imageUrl": "https://www.pexels.com/photo/short-coat-brown-dog-standing-on-pavement-2449536/",
+    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/frenchbulldog.jpg",
     "breed": "French Bulldog",
     "age": 3,
     "gender": "Female",
@@ -83,7 +83,7 @@
   {
     "id": "10",
     "name": "Buddy",
-    "imageUrl": "https://www.pexels.com/photo/english-cocker-spaniel-puppy-sitting-on-ground-beside-grass-1254140/",
+    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/cocker.jpg",
     "breed": "Cocker Spaniel",
     "age": 4,
     "gender": "Male",
@@ -92,7 +92,7 @@
   {
     "id": "11",
     "name": "Bailey",
-    "imageUrl": "https://www.pexels.com/photo/pawn-pug-sitting-on-beige-floor-1591939/",
+    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/pug.jpg",
     "breed": "Pug",
     "age": 2,
     "gender": "Male",
