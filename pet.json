@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "name": "Bella",
+    "imageUrl": "https://media.istockphoto.com/id/1404371422/photo/golden-retriever-playing-on-grass.jpg?s=1024x1024&w=is&k=20&c=m667Yt1biE1RWGmhZ46zbBrmU5NBPLfVD9Ps9JKS0H4=",
+    "breed": "Golden Retriever",
+    "age": 3,
+    "gender": "Female",
+    "price": 2500
+  },
+  {
+    "id": "2",
+    "name": "Luna",
+    "imageUrl": "https://media.istockphoto.com/id/827711622/photo/chartreux-cat-looking-up.webp?a=1&b=1&s=612x612&w=0&k=20&c=D075anWu7vX15WdGlupnpdhkjbjssM-gDTIm6JpgBnQ=",
+    "breed": "Persian Cat",
+    "age": 2,
+    "gender": "Female",
+    "price": 1800
+  },
+  {
+    "id": "3",
+    "name": "Charlie",
+    "imageUrl": "https://images.unsplash.com/photo-1744424705166-c6fc305fec62?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxhYmFyZG9yJTIwYWdlJTIwMiUyMGRvZ3xlbnwwfHwwfHx8MA%3D%3D",
+    "breed": "Labrador",
+    "age": 4,
+    "gender": "Male",
+    "price": 2200
+  },
+  {
+    "id": "4",
+    "name": "Max",
+    "imageUrl": "https://media.istockphoto.com/id/967329466/photo/siamese-cat-on-a-gray-background-saying-hello.webp?a=1&b=1&s=612x612&w=0&k=20&c=4PXhVUHpwon1jsBFl8HiGzSK5vgJdeCt6tIhq-FFPes=",
+    "breed": "Siamese",
+    "age": 1,
+    "gender": "Male",
+    "price": 1500
+  },
+  {
+    "id": "5",
+    "name": "Lucy",
+    "imageUrl": "https://media.istockphoto.com/id/157603003/photo/cute-beagle-at-park.webp?a=1&b=1&s=612x612&w=0&k=20&c=7E5VbuiTX4oceUagnHrXnf3afiHw2VHRey2GnHj-2oM=",
+    "breed": "Beagle",
+    "age": 3,
+    "gender": "Female",
+    "price": 2000
+  },
+  {
+    "id": "6",
+    "name": "Rocky",
+    "imageUrl": "https://images.unsplash.com/photo-1611611158876-41699b77a059?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnVsbGRvZ3xlbnwwfHwwfHx8MA%3D%3D",
+    "breed": "Bulldog",
+    "age": 4,
+    "gender": "Male",
+    "price": 2700
+  },
+  {
+    "id": "7",
+    "name": "Daisy",
+    "imageUrl": "https://media.istockphoto.com/id/182178740/photo/white-poodle-playing-in-the-yard.webp?a=1&b=1&s=612x612&w=0&k=20&c=8ZC7aWc6tvgtg6TJPcNtg3OAMZrwwQuQBDcy0m4VTf4=",
+    "breed": "Poodle",
+    "age": 2,
+    "gender": "Female",
+    "price": 2300
+  },
+  {
+    "id": "8",
+    "name": "Milo",
+    "imageUrl": "https://media.istockphoto.com/id/1211840926/photo/german-shepherd-dog-in-bluebell-meadow.webp?a=1&b=1&s=612x612&w=0&k=20&c=OCrpr_9KzJUtRlDBgFeb9IAlLVaLOwgRh56H1jjWiZg=",
+    "breed": "German Shepherd",
+    "age": 5,
+    "gender": "Male",
+    "price": 3000
+  },
+  {
+    "id": "9",
+    "name": "Coco",
+    "imageUrl": "https://media.istockphoto.com/id/1249480163/photo/a-bored-french-bulldog-lying-down-and-resting-on-sofa-looking-outside.webp?a=1&b=1&s=612x612&w=0&k=20&c=oTJ7mXRc_KCuDnpsTsj_k0Of6nEENfLiuvU_cL-clS0=",
+    "breed": "French Bulldog",
+    "age": 3,
+    "gender": "Female",
+    "price": 3500
+  },
+  {
+    "id": "10",
+    "name": "Buddy",
+    "imageUrl": "https://media.istockphoto.com/id/1164917271/photo/dog-playing-fetch.webp?a=1&b=1&s=612x612&w=0&k=20&c=2JZL9VoW1Y6VWxEklfjgP9nMKJuaMBJk84jVa9xHLeg=",
+    "breed": "Cocker Spaniel",
+    "age": 4,
+    "gender": "Male",
+    "price": 2100
+  },
+  {
+    "id": "11",
+    "name": "Bailey",
+    "imageUrl": "https://media.istockphoto.com/id/2170650364/photo/dog-sleeping-on-bed.webp?a=1&b=1&s=612x612&w=0&k=20&c=DocNOseiciMP1okAo2ydfx-ni6-mrdRq9oPo-QlQ-t0=",
+    "breed": "Pug",
+    "age": 2,
+    "gender": "Male",
+    "price": 1900
+  },
+  {
+    "id": "12",
+    "name": "Sadie",
+    "imageUrl": "https://media.istockphoto.com/id/1257560195/photo/a-purebred-boxer-dog-listening-with-a-head-tilt.webp?a=1&b=1&s=612x612&w=0&k=20&c=uRii6o6Ncg8Fb-K4W0-nDsJKIEfTkkkej_AA3ya5VBI=",
+    "breed": "Boxer",
+    "age": 5,
+    "gender": "Female",
+    "price": 2600
+  }
+]
