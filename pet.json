@@ -20,7 +20,7 @@
   {
     "id": "3",
     "name": "Charlie",
-    "imageUrl": "",
+    "imageUrl": "https://github.com/Anzil-kp/Petadoptiondata/blob/main/lab.jpg",
     "breed": "Labrador",
     "age": 4,
     "gender": "Male",
